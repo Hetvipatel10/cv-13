@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cv-library-uk"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="67.929">
+  <properties />
+  
+  
+            <testcase name="verifyJobSearchResultUsingDifferentDataSet2" time="22.468" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet" time="23.121" classname="uk.co.library.testsuite.JobSearchTest" />
+                <testcase name="verifyJobSearchResultUsingDifferentDataSet1" time="22.340" classname="uk.co.library.testsuite.JobSearchTest" />
+      
+</testsuite>
